@@ -24,7 +24,7 @@ Copy the example env file and make the required configuration changes in the .en
 
 Start the container
 
-    docker-compose up
+    ./vendor/bin/sail up
 
 #### Inside the container
 
