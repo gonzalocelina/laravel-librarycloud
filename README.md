@@ -22,6 +22,10 @@ Copy the example env file and make the required configuration changes in the .en
 
     cp .env.example .env
 
+Start the container
+
+    docker-compose up
+
 #### Inside the container
 
 Generate a new application key
